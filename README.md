@@ -1,7 +1,7 @@
 # React Boilerplate Project
 ---
  
-This is a template for a React project. 
+This is a template for a React project, based on [the small tutorial from Andrew H Farmer](https://www.andrewhfarmer.com/build-your-own-starter/#0-intro)
  
 Usage
 ---
